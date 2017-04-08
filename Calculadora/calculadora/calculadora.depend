@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1491608794 source:c:\users\tronador\desktop\calculadora\calculadora\calculadora.c
+	<stdio.h>
+	"calculadora.h"
+
+1491608747 c:\users\tronador\desktop\calculadora\calculadora\calculadora.h
+
